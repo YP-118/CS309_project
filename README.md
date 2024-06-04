@@ -27,7 +27,7 @@ Refer to the _PPT_ for instructions on crafting a custom dataset tailored to ani
 - **YOLO Implementation**
   - [yolov5_anime](https://github.com/zymk9/yolov5_anime)
     
-    Note: Minor adjustments may be necessary for optimal performance.
+    Note: Minor adjustments are required to get ideal output as discribed in project.
 
 - **Backbone Implementation Tips**
   - Choose a suitable backbone for binary classification (e.g., ResNet, EfficientNet, or a Transformer model).
