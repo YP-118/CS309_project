@@ -1,4 +1,9 @@
 # CS309_project
 
+## AI-Generated Anime Figure Detection
+
+**Key methods:**
+
 YOLO
-Backbone
+
+Backbone (CNN, Transformer)
