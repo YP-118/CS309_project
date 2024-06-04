@@ -13,10 +13,10 @@ This project focuses on developing an efficient system for detecting anime figur
 
 #### Presentation
 - [PPT](./CS309.pdf)  
-   Dive into the detailed explanation of our methodology, results, and future work plans.
+   This PPT might make it easier to understand.
 
 #### Comprehensive Report
-- [Report](./CS309_report.pdf)  
+- [Report](./CS309_final_project.pdf)  
    An in-depth written analysis of the project, including implementation details, experiment results, and conclusions.
 
 ### Dataset Creation
