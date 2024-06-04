@@ -25,7 +25,8 @@ Refer to the _PPT_ for instructions on crafting a custom dataset tailored to ani
 ### Code Implementation
 
 - **YOLO Implementation**
-  - [YOLOv5 Anime Detection](https://github.com/zymk9/yolov5_anime)
+  - [yolov5_anime](https://github.com/zymk9/yolov5_anime)
+    
     Note: Minor adjustments may be necessary for optimal performance.
 
 - **Backbone Implementation Tips**
